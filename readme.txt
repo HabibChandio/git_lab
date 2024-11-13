@@ -17,3 +17,5 @@ GIT commands used:
 4. git commit -m <message> - to commit changes/additions
 5. git remote add origin <url> - to add repository
 6. git push -u origin <branch> - to push commits
+7. git branch <name> - to create branch
+8. git checkout <branch name> - to go to branch
